@@ -7,10 +7,10 @@ public class Marco {
      * 
      */
     
-     
+     public static void main (String[] args){
     
-    
-    
+    pintar();
+     }
     public void pintar() {
         for(int o = 0; o<=10; o++){
             if(o== 0 || o ==10){
